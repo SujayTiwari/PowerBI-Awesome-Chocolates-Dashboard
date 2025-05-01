@@ -1,53 +1,56 @@
-Project Overview
-This project presents a comprehensive sales dashboard for Awesome Chocolates, a global chocolate brand. It helps stakeholders visualize and analyze key business metrics such as total sales, shipments, costs, and profit margins, with detailed insights per salesperson and product category.
+# 🍫 Awesome Chocolates Sales Dashboard (Power BI Project)
 
-📦 Dataset
-File: Awesome Chocolates sales data.xlsx
+This project showcases a dynamic Power BI dashboard built for **Awesome Chocolates**, a fictional company. It highlights key business metrics such as sales, profit, customer trends, and product performance to support decision-making.
 
-The dataset contains multiple sheets with detailed records, including:
+## 📌 Objective
 
-Sales figures by region and time
+To create a visually compelling and interactive sales dashboard that enables business stakeholders to:
 
-Shipments and box volumes
+- Track sales and profitability over time  
+- Analyze customer segments and regions  
+- Identify top-performing products and categories  
+- Detect trends, patterns, and opportunities for growth  
 
-Cost breakdowns
+## 🧰 Tools & Technologies
 
-Profit calculations
+- **Power BI Desktop (.pbix)**  
+- Data Modeling (DAX, relationships)  
+- Data Cleaning (Power Query Editor)  
+- GitHub for portfolio presentation  
 
-Salesperson performance metrics
+## 📁 Project Files
 
-📈 Dashboard Highlights
-Total Sales: $34M
+- `Awesome Chocolates Sales Dashboard.pbix`: Power BI file containing the fully interactive dashboard with data model, DAX measures, and visualizations.
 
-Total Profit: $20.52M
+## 📊 Dashboard Features
 
-Profit Margin: 60.3%
+- **KPI Cards**: Total Sales, Profit, and Orders  
+- **Time Series Visuals**: Monthly sales and profit trends  
+- **Regional Analysis**: Sales performance by region/state  
+- **Product Insights**: Top and bottom performing SKUs  
+- **Customer Segmentation**: Repeat vs new customers, customer value  
+- **Filters**: Interactive slicers for category, region, and date  
 
-Total Shipments: 6K
+## ✅ Business Questions Answered
 
-Total Boxes Sold: 2M
+- What is the monthly sales trend for Awesome Chocolates?  
+- Which regions and products generate the most revenue?  
+- Who are our top customers by spend and frequency?  
+- How do profit margins vary across categories?  
+- Are there seasonal trends in sales performance?  
 
-Total Cost: $13.52M
+## 📎 How to Use
 
-👤 Top Sales Performers
-Kelci Walkden – $1.518M Sales | 65.1% Profit Margin
+1. Open `Awesome Chocolates Sales Dashboard.pbix` in Power BI Desktop.  
+2. Explore the interactive visuals and slicers.  
+3. Modify or enhance the dashboard using DAX or new data sources.  
+4. Export to PDF or publish to Power BI Service as needed.  
 
-Dotty Strutley – $1.424M Sales | 62.7% Profit Margin
+## 📌 Outcome
 
-Brien Boise – $1.307M Sales | 62.4% Profit Margin
+This dashboard reflects my ability to deliver actionable insights through interactive data visualization. It includes data storytelling, KPI tracking, and visual analytics.
 
-📉 Sales Trend Analysis
-Monthly sales trends highlight fluctuations with a MoM drop of 10.8% this month.
+---
 
-Peak sales observed in May 2023 and December 2023.
-
-📦 Shipment Analysis
-Distribution volume visualized using a histogram with shipment ranges.
-
-10.2% shipment volume in the current cycle.
-
-🛠 Tools & Technologies
-Microsoft Excel: Data cleaning & dashboard creation
-
-Power BI : used for interactive dashboards
+**Bonus**: I can extend this project with Excel or SQL integration upon request.
 
